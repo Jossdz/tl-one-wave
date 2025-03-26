@@ -1,8 +1,13 @@
 {
   "name": "tl-one-wave",
-  "displayName": "tl-one-wave",
+  "publisher": "JossDz",
+  "displayName": "TL One Wave",
   "description": "Team Liquid inspired visual studio code dark theme.",
-  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Jossdz/tl-one-wave"
+  },
+  "version": "0.0.3",
   "engines": {
     "vscode": "^1.98.0"
   },
