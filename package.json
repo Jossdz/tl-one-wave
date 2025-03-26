@@ -22,5 +22,6 @@
         "path": "./themes/One Wave-color-theme.json"
       }
     ]
-  }
+  },
+  "license": "MIT"
 }
