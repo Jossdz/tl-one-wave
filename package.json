@@ -7,9 +7,9 @@
     "type": "git",
     "url": "https://github.com/Jossdz/tl-one-wave"
   },
-  "version": "0.0.3",
+  "version": "0.0.4",
   "engines": {
-    "vscode": "^1.98.0"
+    "vscode": "^1.95.3"
   },
   "categories": [
     "Themes"
